@@ -1,0 +1,23 @@
+.container{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 62%;
+    margin-bottom: 30px;
+}
+.searchBar{
+    border: none;
+    border-bottom:1px solid gainsboro;
+    width: 100%;
+    padding-left: 10px;
+    font-size: 17px;
+    padding-bottom: 5px;
+}
+
+.searchIcon{
+    font-size: 17px;
+    color: gray;
+    padding-left: 40px;
+    
+}

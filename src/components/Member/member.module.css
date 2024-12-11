@@ -1,0 +1,45 @@
+ul{
+    width: 60%;
+    margin: auto;
+}
+
+li{
+    border:2px solid gainsboro;
+    margin-top: 2px;
+    text-decoration: none;
+    list-style: none;
+    /* width: 80%; */
+    padding: 5px;
+    position: relative;
+    text-align: left;
+    margin-top: 10px;
+    
+}
+
+.userIcon{
+    padding-right: 5px;
+}
+
+.active{
+    color: black;
+}
+
+.disabled{
+    color: gainsboro;
+}
+
+.user{
+    padding-left: 10px;
+}
+
+.checkedIcon,.uncheckedIcon{
+    font-size: 23px;
+    position: absolute;
+    right: 15px;
+    top: 35%;
+}
+
+.checkedIcon{
+   color: rgb(65, 229, 65);
+
+}
